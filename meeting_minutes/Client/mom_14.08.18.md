@@ -12,6 +12,7 @@
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
 D | Arrange meetings every week | - | -
-T | Go through the project goals  | - | 24-08-18
+D | Created common drive and hangouts group with the client for efficient communication  | - | -
+T | Go through the project goals and prepare timeline of execution | Valid for All | 24-08-18
 T | Learn Superset | Valid for All | 25-08-18
-I | Understand the scope of the project | - | -
+I | Understood the broad scope and expectations from the project | - | -
