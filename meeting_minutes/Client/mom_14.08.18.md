@@ -7,7 +7,7 @@
 ### Date : 14-08-18
 ### Time : 11:30
 ### Topic: Second Client Meet
-### Attendees: Arnav Kapoor , R.S Subbulakshmi , Debojit Das , Charan Chinni , Ujjwal Narayan#
+### Attendees: Arnav Kapoor , R.S Subbulakshmi , Debojit Das , Charan Chinni , Ujwal Narayan#
 
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
