@@ -52,3 +52,5 @@ This is a document which conveys what each team member has been doing.
 1. SQLite3 Databases was taken and different queries were written.
 2. The Queried data was visualized with different types of charts including but not limited to Bar Graphs, Pie Charts, Time Charts etc.
 3. Created a dashboard to which Charts can be imported.
+4. Documentation
+    1. Project Concept Documentation
