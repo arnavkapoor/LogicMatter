@@ -37,14 +37,19 @@ This is a document which conveys what each team member has been doing.
 2. Created custom user roles and users with different permissions.
 3. Created Dashboards based on the user's needs.
 4. Modification of the Superset source code.
-5. Worked on permissions for different databases.
+5. Worked on permissions for different databases as visualized by the roles.
+6. Documentation
+    1. The structure of whole repository 
+    2. Minutes of Meeting x 2
 
 ## 4. Arnav Kapoor
 
 1. Implementation of single sign in.
 2. Explored different authentication mechanisms for Flask App Builder to find the best solution.
-3. Went through the Superset source code and modified it  so as to implement our own customized security.
-4. Documentation :
+3. Went through the Superset source code and modified it so as to implement our own customized security.
+4. Ran superset docker image for easier integeration of customised security.
+5. Went through the entire use-cases of superset including login,giving permissions,creating slices and dashboards. 
+6. Documentation :
     1. Minutes of Meeting x 1
 
 ## 5. Debojit Das
