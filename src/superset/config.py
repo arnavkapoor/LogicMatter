@@ -30,7 +30,8 @@ if 'SUPERSET_HOME' in os.environ:
     DATA_DIR = os.environ['SUPERSET_HOME']
 else:
     DATA_DIR = os.path.join(os.path.expanduser('~'), '.superset')
-
+GOOGLE_CONSUMER_KEY = '907086898003-1o72k44a61cqki622e74ql07d46i52v2.apps.googleusercontent.com'
+GOOGLE_CONSUMER_SECRET = 'LDzdqdWVZBvhyAUq_orBAVbL'
 # ---------------------------------------------------------
 # Superset specific config
 # ---------------------------------------------------------
@@ -126,8 +127,8 @@ OAUTH_PROVIDERS = [
     
     {'name':'google', 'icon':'fa-google', 'token_key':'access_token',
         'remote_app': {
-            'consumer_key':'907086898003-1o72k44a61cqki622e74ql07d46i52v2.apps.googleusercontent.com',
-            'consumer_secret':'LDzdqdWVZBvhyAUq_orBAVbL',
+            'consumer_key':GOOGLE_CONSUMER_KEY,
+            'consumer_secret':GOOGLE_CONSUMER_SECRET,
             'base_url':'https://www.googleapis.com/oauth2/v2/',
             'request_token_params':{
               'scope': 'email profile'
