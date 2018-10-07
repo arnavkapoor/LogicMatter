@@ -30,6 +30,7 @@ This is a document which conveys what each team member has been doing.
     1. Project Plan
     2. Status Tracker
     3. Minutes of Meeting x 4
+    4. Contributions
 
 ## 3. R.S Subbulakshmi
 
@@ -41,6 +42,7 @@ This is a document which conveys what each team member has been doing.
 6. Documentation
     1. The structure of whole repository 
     2. Minutes of Meeting x 2
+    3. Contributions
 
 ## 4. Arnav Kapoor
 
@@ -51,6 +53,7 @@ This is a document which conveys what each team member has been doing.
 5. Went through the entire use-cases of superset including login,giving permissions,creating slices and dashboards. 
 6. Documentation :
     1. Minutes of Meeting x 1
+    2. Contributions
 
 ## 5. Debojit Das
 
@@ -59,3 +62,6 @@ This is a document which conveys what each team member has been doing.
 3. Created a dashboard to which Charts can be imported.
 4. Documentation
     1. Project Concept Documentation
+    2. Project Plan
+    3. Minutes of Meeting x 1
+    4. Contributions
