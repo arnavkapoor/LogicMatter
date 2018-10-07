@@ -37,7 +37,10 @@ This is a document which conveys what each team member has been doing.
 2. Created custom user roles and users with different permissions.
 3. Created Dashboards based on the user's needs.
 4. Modification of the Superset source code.
-5. Worked on permissions for different databases.
+5. Worked on permissions for different databases as visualized by the roles.
+6. Documentation
+    1. The structure of whole repository 
+    2. Minutes of Meeting x 2
 
 ## 4. Arnav Kapoor
 
