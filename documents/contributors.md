@@ -63,5 +63,6 @@ This is a document which conveys what each team member has been doing.
 4. Documentation
     1. Project Concept Documentation
     2. Project Plan
-    3. Minutes of Meeting x 1
-    4. Contributions
+    3. Test Plan
+    4. Minutes of Meeting x 1
+    5. Contributions
