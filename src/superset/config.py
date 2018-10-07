@@ -30,8 +30,8 @@ if 'SUPERSET_HOME' in os.environ:
     DATA_DIR = os.environ['SUPERSET_HOME']
 else:
     DATA_DIR = os.path.join(os.path.expanduser('~'), '.superset')
-GOOGLE_CONSUMER_KEY = '907086898003-1o72k44a61cqki622e74ql07d46i52v2.apps.googleusercontent.com'
-GOOGLE_CONSUMER_SECRET = 'LDzdqdWVZBvhyAUq_orBAVbL'
+GOOGLE_CONSUMER_KEY = 'INSERT_YOUR_GOOGLE_CONSUMER_KEY_CREDENTIAL_HERE'
+GOOGLE_CONSUMER_SECRET = 'INSERT_YOUR_GOOGLE_CONSUMER_SECRET_CREDENTIAL_HERE'
 # ---------------------------------------------------------
 # Superset specific config
 # ---------------------------------------------------------
