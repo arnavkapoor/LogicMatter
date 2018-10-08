@@ -8,6 +8,7 @@
 ### Time : 11:30
 ### Topic: Second Client Meet
 ### Attendees: Arnav Kapoor , R.S Subbulakshmi , Debojit Das , Charan Chinni , Ujwal Narayan#
+### Venue : LogicMatter , Prime Tower DLF Cyber City
 
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
