@@ -32,8 +32,8 @@ CSRF_ENABLED = True
 # AUTH_REMOTE_USER : Is for using REMOTE_USER from web server
 AUTH_TYPE = AUTH_OAUTH
 
-GOOGLE_CONSUMER_KEY = '907086898003-1o72k44a61cqki622e74ql07d46i52v2.apps.googleusercontent.com'
-GOOGLE_CONSUMER_SECRET = 'LDzdqdWVZBvhyAUq_orBAVbL'
+GOOGLE_CONSUMER_KEY = 'INSERT_GOOGLE_CONSUMER_KEY_HERE'
+GOOGLE_CONSUMER_SECRET = 'INSERT_GOOGLE_CONSUMER_SECRET_HERE'
 OAUTH_PROVIDERS = [
     
     {'name':'google', 'icon':'fa-google', 'token_key':'access_token',
