@@ -5,13 +5,9 @@
  BY :
 
     ● UJWAL NARAYAN N
-
     ● DEBOJIT DAS
-
     ● ARNAV KAPOOR
-
     ● CHINNI VENKATA CHARAN
-
     ● R.S SUBBULAKSHMI
 
 ## IOT Dashboard and Analytics using superset
@@ -51,16 +47,16 @@ To push the analytics onto a web application so that the end users can easily us
 
 #### 1.2 Document Convention
 
-The document uses the following acronyms :
-     ● ODS : Operational Data Store
-     ● ADS : Application Data Store
-     ● SS : Super Set
-     ● DB : Database
+The document uses the following acronyms :\
+&nbsp;● ODS : Operational Data Store\
+&nbsp;● ADS : Application Data Store\
+&nbsp;● SS : Super Set\
+&nbsp;● DB : Database
 
 #### 1.3 Intended Audience
 
 The product is mainly targeted at businesses and performs analytics and data visualisation. It is
-expected that both people from a technical background and from a technical background are expected to
+expected that people from both technical and a non-technical background are expected to
 use this product
 
 #### 1.4 Project Scope
@@ -68,7 +64,7 @@ use this product
 The project is split into two major parts. Ad hoc analysis and the creation and customisation of
 the 21 different templates in Superset. If any customizations are done which can be contributed and thus
 improve the Superset application , the code will be given back to the open source community. Also of a
-lower scope is the integration of Metrics matter with the existing application i,e Points Matter
+lower scope is the integration of Metrics matter with the existing application i,e Point Matter
 
 #### 1.5. References
 
@@ -80,24 +76,26 @@ Superset : [Documentation](https://superset.incubator.apache.org/)
 
     ● Extract data from ODS
     ● Extract data from ADS
+    ● Integeration with the Point Matter Application
     ● Data Visualisation
     ● 21 Templates for the client to choose from
     ● Ad hoc analysis
 
 #### 2.2 User Characteristics
 
-    ● Databases uploaded by a user should only be visible to the user
-    ● Credentials to be passed from application to another
+    ● Databases uploaded by a user should be visible only to the user.
+    ● Credentials to be passed between the micro-applications.
 
 #### 2.3 Operating Environment
 
     1. Operating System : Linux , OSX , Windows
-    2. Database system : SQL Lite
+    2. Database system : MSSQL, sqlite3
     3. Platform : Flask with Angular and React
 
 ### Use cases
 
-    ● Choose among the 21 created templates
+    ● Choose among the 21 created templates.
+    ● Run SQL queries on your data and visualise the results.
     ● Data Visualization with graphs
     ● Data Visualization with tables
     ● Get the Trend Logs
@@ -106,5 +104,5 @@ Superset : [Documentation](https://superset.incubator.apache.org/)
     ● Data Analysis including and not limited to ad hoc analysis
     ● Extract data from ODS
     ● Extract data from ADS
-    ● Transfer of credentials
+    ● Transfer of credentials between the micro-applications
     ● Run queries
