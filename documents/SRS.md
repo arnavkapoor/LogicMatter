@@ -89,7 +89,7 @@ Superset : [Documentation](https://superset.incubator.apache.org/)
 #### 2.3 Operating Environment
 
     1. Operating System : Linux , OSX , Windows
-    2. Database system : SQL Lite
+    2. Database system : MSSQL, sqlite3
     3. Platform : Flask with Angular and React
 
 ### Use cases

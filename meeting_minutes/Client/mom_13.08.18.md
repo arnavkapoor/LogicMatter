@@ -7,7 +7,7 @@
 ### Date : 13-08-2018
 ### Time : 5:00
 ### Topic: First Client Meet
-### Attendees: Ujwal Narayan , R.S Subbulakshmi , Debojit Das , Charan Chinni , Arnav Kapoor #
+### Attendees: Ujwal Narayan , R.S Subbulakshmi , Debojit Das , Charan Chinni , Arnav Kapoor
 ### Venue : IIIT_H , Reading Room 
 
 Type | Description | Owner | Deadline

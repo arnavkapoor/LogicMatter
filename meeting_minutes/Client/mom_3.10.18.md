@@ -7,7 +7,7 @@
 ### Date : 3-10-2018
 ### Time : 11:00 
 ### Topic: Fifth Client Meet
-### Attendees: Ujwal Narayan , R.S Subbulakshmi , Charan Chinni , Arnav Kapoor #
+### Attendees: Ujwal Narayan , R.S Subbulakshmi , Charan Chinni , Arnav Kapoor
 ### Venue : Logic Matter ,Prime tower , DLF Cyber City 
 
 Type | Description | Owner | Deadline
