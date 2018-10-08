@@ -24,7 +24,7 @@ Once you activated your virtualenv everything you are doing is confined inside t
 
 ## Superset installation and initialization
 
-Follow these few simple steps to install Superset.:
+Follow these few simple steps to install Superset:
 
 ### Install superset
 `pip install superset`
