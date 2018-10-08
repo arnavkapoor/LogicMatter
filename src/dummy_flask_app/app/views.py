@@ -1,5 +1,6 @@
 from flask_appbuilder import AppBuilder, BaseView, expose, has_access
 from app import appbuilder
+from flask import redirect
 
 
 class MyView(BaseView):
@@ -10,6 +11,6 @@ class MyView(BaseView):
     @has_access
     def method1(self):
         self.update_redirect()
-        return self.render_template('sup.html')
+        return  redirect('http://localhost:8088')
 
 appbuilder.add_view(MyView, "Superset", category='My View')
