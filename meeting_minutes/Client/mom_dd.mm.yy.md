@@ -4,10 +4,10 @@
 * **Decisions** (D)
 * **Information** (I) - everything else of interest.
  
-### Date : 22-08-18
-### Time : 11:30
-### Topic: Third Client Meet
-### Attendees: Arnav Kapoor , R.S Subbulakshmi , Debojit Das , Charan Chinni , Ujwal Narayan
+### Date : dd-mm-yy
+### Time : hh:mm
+### Topic: Fourth Client Meet
+### Attendees: Debojit Das, Arnav Kapoor , R.S Subbulakshmi , Charan Chinni , Ujwal Narayan
 ### Venue : Logic Matter , Prime Towers , DLF Cyber City
 
 Type | Description | Owner | Deadline
