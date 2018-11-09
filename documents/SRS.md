@@ -70,7 +70,7 @@ lower scope is the integration of Metrics matter with the existing application i
 
 Superset : [Documentation](https://superset.incubator.apache.org/)
 
-### Overall Description
+### OVERALL DESCRIPTION
 
 #### 2.1 Product Features
 
@@ -92,11 +92,11 @@ Superset : [Documentation](https://superset.incubator.apache.org/)
     2. Database system : MSSQL, sqlite3
     3. Platform : Flask with Angular and React
 
-### Use cases
+### USE CASES 
 
     ● Choose among the 4 created templates.
     ● Run SQL queries on your data and visualise the results.
-    ● Data Visualization with graphs
+    ● Data Visualization with graphs                
     ● Data Visualization with tables
     ● Get the Trend Logs
     ● Get the Alarm Logs
@@ -106,3 +106,7 @@ Superset : [Documentation](https://superset.incubator.apache.org/)
     ● Extract data from ADS
     ● Transfer of credentials between the micro-applications
     ● Run queries
+ 
+
+### USE CASE DIAGRAM
+![Use case diagram ](UseCaseDiagram.png)
