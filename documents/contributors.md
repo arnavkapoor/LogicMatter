@@ -26,11 +26,14 @@ This is a document which conveys what each team member has been doing.
 2. The Queried data was visualized with different types of charts including but not limited to Bar Graphs, Pie Charts, Time Charts etc.
 3. Created a dashboard to which Charts can be imported.
 4. Worked on Templates.
-5. Documentation
+5. Wrote queries for the templates
+6. Created dashboards for the queries.
+7. Documentation
     1. Project Plan
     2. Status Tracker
     3. Minutes of Meeting x 4
     4. Contributions
+    5. Design Doc
 
 ## 3. R.S Subbulakshmi
 
@@ -60,9 +63,11 @@ This is a document which conveys what each team member has been doing.
 1. SQLite3 Databases was taken and different queries were written.
 2. The Queried data was visualized with different types of charts including but not limited to Bar Graphs, Pie Charts, Time Charts etc.
 3. Created a dashboard to which Charts can be imported.
+4. Wrote queries for the templates
+5. Created dashboards for the queries.
 4. Documentation
     1. Project Concept Documentation
     2. Project Plan
     3. Test Plan
-    4. Minutes of Meeting x 1
+    4. Minutes of Meeting x 4
     5. Contributions
