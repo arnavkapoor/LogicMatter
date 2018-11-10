@@ -13,5 +13,6 @@
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
 D | Discussion about scope change | - | -
-T | Doubts about template 1 | - | -
+T | Creation of  template 1 and template 2 | - | -
+I | Clarified Doubts about template 1 | - | -
 I | More information about remaining 2 more templates | - | -
