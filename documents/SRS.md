@@ -78,7 +78,7 @@ Superset : [Documentation](https://superset.incubator.apache.org/)
     ● Extract data from ADS
     ● Integeration with the Point Matter Application
     ● Data Visualisation
-    ● 21 Templates for the client to choose from
+    ● 3 Templates for the client to choose from
     ● Ad hoc analysis
 
 #### 2.2 User Characteristics
