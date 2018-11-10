@@ -1,5 +1,4 @@
-1. Use case diagram in srs
+1. Use case diagram in srs and in the ppt
 2. TestPlan (Update for R2)
 3. deseign doc should be in odt (live document needs to be updated)
-4. Dates in Project Plan (Done )
-5. Update source in presentation 
+6. Timeline for R2
