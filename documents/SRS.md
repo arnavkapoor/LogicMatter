@@ -12,7 +12,7 @@
 
 ## IOT Dashboard and Analytics using superset
 
-### VERSION : 2.0
+### VERSION : 2.1
 
 ### INDEX
 
@@ -62,7 +62,7 @@ use this product
 #### 1.4 Project Scope
 
 The project is split into two major parts. Ad hoc analysis and the creation and customisation of
-the 4 different templates in Superset. If any customizations are done which can be contributed and thus
+the 3 different templates in Superset. If any customizations are done which can be contributed and thus
 improve the Superset application , the code will be given back to the open source community. Also of a
 lower scope is the integration of Metrics matter with the existing application i,e Point Matter
 
@@ -94,7 +94,7 @@ Superset : [Documentation](https://superset.incubator.apache.org/)
 
 ### USE CASES 
 
-    ● Choose among the 4 created templates.
+    ● Choose among the 3 created templates.
     ● Run SQL queries on your data and visualise the results.
     ● Data Visualization with graphs                
     ● Data Visualization with tables
