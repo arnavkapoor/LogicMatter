@@ -31,7 +31,7 @@ This is a document which conveys what each team member has been doing.
 7. Documentation
     1. Project Plan
     2. Status Tracker
-    3. Minutes of Meeting x 4
+    3. Minutes of Meeting x 6
     4. Contributions
     5. Design Doc
 
@@ -69,5 +69,5 @@ This is a document which conveys what each team member has been doing.
     1. Project Concept Documentation
     2. Project Plan
     3. Test Plan
-    4. Minutes of Meeting x 4
+    4. Minutes of Meeting x 5
     5. Contributions
